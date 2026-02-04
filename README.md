@@ -3,6 +3,8 @@
 Skill Lab – Driving License is a Unity-based virtual training game created to help students understand driving laws and vehicle mechanisms in a safe digital environment.
 The simulation allows learners to practice essential driving skills without real-world risk, helping them build confidence before driving on actual roads.
 
+**🎮 Game Play Link:** https://www.olabs.edu.in/OlabsNextG_cdac/olabsarvr/labs/skill/final_skill_lab/index.html
+
 **🎯 Learning Expectations**
 
 Students will be able to:
